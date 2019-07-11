@@ -1,25 +1,11 @@
-# README
+# To Do List App
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+This app was created to help people manage their work.
+It was designed with Ruby and Ruby on rails
+ruby: 2.6.3
+rails: 5.2.3
 
-Things you may want to cover:
+Designed and created by @ande99
 
-* Ruby version
+Be sure to match the Ruby version and also re-check the Gemfiles.
 
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
-# todo_list
